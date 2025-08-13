@@ -33,3 +33,6 @@ This project is designed for beginners to understand:
 4. Run: `java FindEvenOdd`
 
 ---
+## Output
+<img width="754" height="87" alt="image" src="https://github.com/user-attachments/assets/b93d5a09-500b-444f-8b41-bd3f88804c56" />
+
